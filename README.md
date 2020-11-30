@@ -1,4 +1,5 @@
-# implementasi api kawal corona php
-implementasi api kawal korona dengan php sederhana
+# implementasi API kawal corona php
+implementasi API kawal korona dengan php sederhana
+belajar cara menggunakan API
 
 dokumentasi : https://kawalcorona.com/api/
